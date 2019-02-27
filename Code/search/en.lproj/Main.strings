@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "SEARCH"; ObjectID = "0OD-lS-Jvh"; */
+"0OD-lS-Jvh.normalTitle" = "SEARCH";
+
+/* Class = "UITextField"; placeholder = "Type in the location"; ObjectID = "34L-dC-TPh"; */
+"34L-dC-TPh.placeholder" = "Type in the location";
+
+/* Class = "UITextField"; placeholder = "10"; ObjectID = "95K-HH-L8n"; */
+"95K-HH-L8n.placeholder" = "10";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "HVX-xX-cug"; */
+"HVX-xX-cug.text" = "Category";
+
+/* Class = "UILabel"; text = "Custom Location"; ObjectID = "QX8-EN-9CD"; */
+"QX8-EN-9CD.text" = "Custom Location";
+
+/* Class = "UILabel"; text = "Keyword"; ObjectID = "Qq9-ZK-W4Z"; */
+"Qq9-ZK-W4Z.text" = "Keyword";
+
+/* Class = "UITextView"; text = "Keyword and location are mandatory fields"; ObjectID = "R3u-Je-fkh"; */
+"R3u-Je-fkh.text" = "Keyword and location are mandatory fields";
+
+/* Class = "UINavigationItem"; title = "Search Results"; ObjectID = "UTh-dY-FS8"; */
+"UTh-dY-FS8.title" = "Search Results";
+
+/* Class = "UILabel"; text = "Unites"; ObjectID = "W1A-L6-ssQ"; */
+"W1A-L6-ssQ.text" = "Unites";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "Zj4-HJ-XuI"; */
+"Zj4-HJ-XuI.text" = "Distance";
+
+/* Class = "UILabel"; text = "Current Location"; ObjectID = "bql-PL-orW"; */
+"bql-PL-orW.text" = "Current Location";
+
+/* Class = "UINavigationItem"; title = "Places Search"; ObjectID = "gM2-dw-Sys"; */
+"gM2-dw-Sys.title" = "Places Search";
+
+/* Class = "UIButton"; normalTitle = "CLEAR"; ObjectID = "qE4-Bb-yFN"; */
+"qE4-Bb-yFN.normalTitle" = "CLEAR";
+
+/* Class = "UITextField"; placeholder = "Enter keyword"; ObjectID = "qTC-xm-44j"; */
+"qTC-xm-44j.placeholder" = "Enter keyword";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "r75-YR-sgP"; */
+"r75-YR-sgP.text" = "From";
+
+/* Class = "UISegmentedControl"; trP-tK-2dR.segmentTitles[0] = "SEARCH"; ObjectID = "trP-tK-2dR"; */
+"trP-tK-2dR.segmentTitles[0]" = "SEARCH";
+
+/* Class = "UISegmentedControl"; trP-tK-2dR.segmentTitles[1] = "FAVORITE"; ObjectID = "trP-tK-2dR"; */
+"trP-tK-2dR.segmentTitles[1]" = "FAVORITE";
+
+/* Class = "UINavigationItem"; title = "Search Result"; ObjectID = "x2q-Ub-NLm"; */
+"x2q-Ub-NLm.title" = "Search Result";
