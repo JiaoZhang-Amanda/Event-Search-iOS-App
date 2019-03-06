@@ -26,6 +26,6 @@ Use the backend service (node.js script).
 * Users can save events as favorites, delete events from favorite lists and post on Twitter.
 
 <B>[An example]</B><br>
-<img height="400" src="https://github.com/JiaoZhang-Amanda/Event-Search-iOS-App/raw/master/Example.gif" style="transform:rotate(90deg);"/> 
+<img height="400" src="https://github.com/JiaoZhang-Amanda/Event-Search-iOS-App/raw/master/Example.gif" style="transform:rotate(90deg)/> 
 
 
